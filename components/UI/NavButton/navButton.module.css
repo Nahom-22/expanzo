@@ -1,0 +1,13 @@
+.navButton {
+  color: white;
+  text-align: left;
+}
+.btnElements {
+  width: 100px;
+  display: flex;
+  padding-left: 10px;
+}
+
+.element {
+  padding-left: 8px;
+}

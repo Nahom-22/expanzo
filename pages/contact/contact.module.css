@@ -1,0 +1,21 @@
+.contactPage {
+    height: 300px;
+}
+
+.contactContainer{
+    width: 50%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.contactOptions{
+    margin-top: 10px;
+}
+
+.cardContainer {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}

@@ -1,0 +1,18 @@
+.btn {
+  width: 100px;
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.active:hover,
+.active:focus,
+.active:active {
+  text-decoration: underline;
+}

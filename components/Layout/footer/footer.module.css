@@ -1,0 +1,14 @@
+.footerPage{
+    margin-top: 90px;
+    height: 190px;
+    background-color:gainsboro;
+}
+
+.footerContainer {
+    display: flex;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    justify-content: space-between;
+}

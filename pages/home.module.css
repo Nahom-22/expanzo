@@ -1,0 +1,19 @@
+.homePage {
+  height: 300px;
+  color: black;
+}
+
+.homeContainer {
+  width: 50%;
+  margin: auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.contentContainer {
+  width: 50%;
+  margin: auto;
+  padding-top: 50px;
+  padding-right: 40px;
+  text-align: center;
+}
